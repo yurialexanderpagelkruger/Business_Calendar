@@ -1,0 +1,17 @@
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.Form1.resources
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.Resources.resources
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.vbproj.GenerateResource.cache
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.AssemblyInfoInputs.cache
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.AssemblyInfo.vb
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.vbproj.CoreCompileInputs.cache
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\bin\Debug\net8.0-windows\CalendarioEmpresarial.exe
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\bin\Debug\net8.0-windows\CalendarioEmpresarial.deps.json
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\bin\Debug\net8.0-windows\CalendarioEmpresarial.runtimeconfig.json
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\bin\Debug\net8.0-windows\CalendarioEmpresarial.dll
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\bin\Debug\net8.0-windows\CalendarioEmpresarial.pdb
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.dll
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\refint\CalendarioEmpresarial.dll
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.pdb
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\CalendarioEmpresarial.genruntimeconfig.cache
+C:\Users\qtlwk\OneDrive\Documentos\Proyectos Visual Studio\CalendarioEmpresarial\obj\Debug\net8.0-windows\ref\CalendarioEmpresarial.dll
