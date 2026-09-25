@@ -38,5 +38,4 @@ La aplicación calcula automáticamente la disposición de los días basándose 
 
 ## 👨‍💻 Autor
 
-Creado por **Yuri Alexander Pagel Krüger** 
-© 2026 Yuri Alexander Pagel Krüger. Todos los derechos reservados.
+Creado por **Yuri Alexander Pagel Krüger**
